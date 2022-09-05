@@ -17,3 +17,5 @@ just put this id then you will get to see all the transaction
 <li>
 <h1>Can follow the below course outline</h1>
 -https://learnweb3.io/
+
+<h1><a href="" title='linktoliveview'>Live View</a></h1>
