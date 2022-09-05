@@ -12,7 +12,6 @@ Web Dapp following LearnWeb3 Dao Freshman Track
 <ul>-Remix IDE</ul>
 <ul>-Ether.JS</ul>
 <ul>-lite server</ul>
-<ul>-Ether.JS</ul>
 <ul>-Ropson testnet for deploying smart contract</ul>
 <ul>-Metamask for transactions</ul>
 -Also can check deployed contract usingt ID : 0xbd83b0327cBC8CA1778073C7E39aEfEB61C4e4E1 
